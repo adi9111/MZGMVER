@@ -1,0 +1,2 @@
+# MZGMVER
+Projekt dla mzgm 
